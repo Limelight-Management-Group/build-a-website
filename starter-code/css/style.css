@@ -22,3 +22,17 @@ footer nav {
       letter-spacing: 4px;
       opacity: 0.9;
 }
+#gold {
+	float: left;
+	height: 400px;
+	width: 400px;
+
+}
+#content {
+	float: center;
+	width: 900px;
+	margin-left: 700px;
+	padding: 20px 20px 20px 20px;
+	height: 400px;
+	font-size: 20px;
+}
