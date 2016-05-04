@@ -4,19 +4,33 @@
 }
 nav {
 	background-color: lime;
-	height:60px;
+	height:30px;
 }
-header nav ul li {
+#nav2 ul li{
 	display: inline;
+	font-size: 20px;
+}
+header nav ul {
+	display: inline;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+
 }
 footer nav {
 	background-color: lime;
 	height:100px;
 	width: 1936px;
-	display: inline-block;
+	display: inline;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	float: right;
+
 	font-family: Montserrat, sans-serif;
       margin-bottom: 0;
-      background-color: #2d2d30;
+      background-color: lime;
+      color: white;
       border: 0;
       font-size: 11px !important;
       letter-spacing: 4px;
@@ -31,8 +45,12 @@ footer nav {
 #content {
 	float: center;
 	width: 900px;
-	margin-left: 700px;
+	margin-left: 500px;
 	padding: 20px 20px 20px 20px;
 	height: 400px;
 	font-size: 20px;
+	font-family: sans-serif;
+}
+img {
+	margin-left: 40px;
 }
