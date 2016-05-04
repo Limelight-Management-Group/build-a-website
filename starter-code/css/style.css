@@ -1,0 +1,24 @@
+#page {
+	border: solid black 10px;
+	background-color: black;
+}
+nav {
+	background-color: lime;
+	height:60px;
+}
+header nav ul li {
+	display: inline;
+}
+footer nav {
+	background-color: lime;
+	height:100px;
+	width: 1936px;
+	display: inline-block;
+	font-family: Montserrat, sans-serif;
+      margin-bottom: 0;
+      background-color: #2d2d30;
+      border: 0;
+      font-size: 11px !important;
+      letter-spacing: 4px;
+      opacity: 0.9;
+}
